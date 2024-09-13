@@ -1,0 +1,1 @@
+ Go program for a conference ticket booking system. This program allows users to book tickets, and it validates the user input before processing the booking. It also sends a confirmation email to the user after booking.
